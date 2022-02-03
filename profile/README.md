@@ -11,8 +11,10 @@ This class is an introduction to Python (and git). However, this class is not on
 ## Table of Classes
 * [02/03/22 - Intro](#----02-03-22---intro----)
 
-
+</br>
+</br>
 ### --- 02/03/22 - Intro ---
+
 [back to TOC](#table-of-classes)
 
 - [ ] Simple Intro to Python
