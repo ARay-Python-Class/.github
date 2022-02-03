@@ -9,17 +9,17 @@ This class is an introduction to Python (and git). However, this class is not on
 
 ### 02/03/22 - Intro
 
-- [] Simple Intro to Python
-- [] Install package manager
+- [ ] Simple Intro to Python
+- [ ] Install package manager
   * Mac: [brew]()
   * Windows: [chocolatey]()
   * Linux: **Depends on the distro**
-- [] Install [Python]()
-- [] Install [Git]()
-- [] Install text editor / IDE
+- [ ] Install [Python]()
+- [ ] Install [Git]()
+- [ ] Install text editor / IDE
   - [VSCode]()
   - [Vim]()
-- [] Signup for [Github]()
-- [] Go over homework
+- [ ] Signup for [Github]()
+- [ ] Go over homework
   * Discuss **statically** typed vs **dynamically** typed languages 
   * Discuss **compiled** vs **interpreted** languages
