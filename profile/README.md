@@ -17,8 +17,8 @@ This class is an introduction to Python (and git). However, this class is not on
 ### --- 02/03/22 - Intro ---
 [back to TOC](#table-of-classes)
 
-- [ ] Simple Intro to Python
-- [ ] Install package manager
+- [x] Simple Intro to Python
+- [x] Install package manager
   * Mac: [brew](https://brew.sh/)
 
   ``` sh
@@ -28,14 +28,14 @@ This class is an introduction to Python (and git). However, this class is not on
   * Windows: [chocolatey](https://chocolatey.org/install)
     * follow steps on install page
   * Linux: **Depends on the distro**
-- [ ] Install [Python](https://www.python.org/downloads/)
-- [ ] Install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-- [ ] Install text editor / IDE
+- [x] Install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+- [x] Install [Python](https://www.python.org/downloads/)
+- [x] Install text editor / IDE
   - [VSCode](https://code.visualstudio.com/download)
     * Install python specific code extensions
   - **Vim**
-- [ ] Signup for [Github](https://github.com/)
+- [x] Signup for [Github](https://github.com/)
   - Get added to **ARay-Python-Class org**
-- [ ] Go over homework
+- [x] Go over homework
   * Discuss **statically** typed vs **dynamically** typed languages 
   * Discuss **compiled** vs **interpreted** languages
