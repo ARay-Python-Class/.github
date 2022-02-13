@@ -9,12 +9,13 @@ This class is an introduction to Python (and git). However, this class is not on
 
 
 ## Table of Classes
-* [02/03/22 - Intro](#----02-03-22---intro----)
+* [1. 02/03/22 - Intro](#-020322-intro)
+* [2. 02/17/22 - Variables, Multi-Assignment, String Methods, User Input, Control-Flow](#-021722-variables-multi-assignment-string-methods-user-input-control-flow)
 
 </br>
 </br>
 
-### --- 02/03/22 - Intro ---
+### 02/03/22: Intro
 [back to TOC](#table-of-classes)
 
 - [x] Simple Intro to Python
@@ -39,3 +40,41 @@ This class is an introduction to Python (and git). However, this class is not on
 - [x] Go over homework
   * Discuss **statically** typed vs **dynamically** typed languages 
   * Discuss **compiled** vs **interpreted** languages
+
+
+### 02/17/22: Variables, Multi-Assignment, String Methods, User Input, Control-Flow
+[back to TOC](#table-of-classes)
+
+  - [ ] Variables
+
+  A `variable` is a container that holds a value. When the ***variable*** is used, it behaves as the ***value*** it holds
+
+  - [ ] Multiple Assignment
+
+ `multi-assignment` allows us to set multiple variables at the same time
+ 
+  - [ ] `type()` method
+  - [ ] `str()` method
+  - [ ] `len()` method
+  - [ ] Common `string` methods
+    * `.find()`
+    * `.capitalize()`
+    * `.upper()`
+    * `.lower()`
+    * `.isDigit()`
+    * `.isAlpha()`
+    * `.count()`
+    * `.replace()`
+    * Duplicate `( * )`
+<br><br>
+
+- [ ] Type Casting
+- [ ] User Input
+- [ ] Control Flow
+
+  * `if`
+  * `if-else`
+  * `if-elif-else`
+  * `ternary`
+  * `while`
+  * `for`
