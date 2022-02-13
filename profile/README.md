@@ -9,8 +9,8 @@ This class is an introduction to Python (and git). However, this class is not on
 
 
 ## Table of Classes
-* [1. 02/03/22 - Intro](#-020322-intro)
-* [2. 02/17/22 - Variables, Multi-Assignment, String Methods, User Input, Control-Flow](#-021722-variables-multi-assignment-string-methods-user-input-control-flow)
+* [1. 02/03/22 - Intro](#020322-intro)
+* [2. 02/17/22 - Variables, Multi-Assignment, String Methods, User Input, Control-Flow](#021722-variables-multi-assignment-string-methods-user-input-control-flow)
 
 </br>
 </br>
